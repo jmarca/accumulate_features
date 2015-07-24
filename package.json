@@ -1,0 +1,19 @@
+{
+  "name": "accumulate_features",
+  "version": "1.0.0",
+  "description": "Accumulate features from database, letting one specify a header and  properties:data{}",
+  "main": "accumulate_features.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/accumulate_features.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/accumulate_features/issues"
+  },
+  "homepage": "https://github.com/jmarca/accumulate_features#readme"
+}
