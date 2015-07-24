@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jmarca/accumulate_features/issues"
   },
-  "homepage": "https://github.com/jmarca/accumulate_features#readme"
+  "homepage": "https://github.com/jmarca/accumulate_features#readme",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
 }
